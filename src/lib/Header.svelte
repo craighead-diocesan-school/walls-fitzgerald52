@@ -26,4 +26,15 @@
     font-family: 'M PLUS 1 Code', monospace;
     font-size: larger;
   }
+  @media screen and (max-width: 1000px) {
+    h1 {
+      width: 1000px;
+    }
+    .stripe {
+      width: 1000px;
+    }
+    h2 {
+      width: 1000px;
+    }
+  }
 </style>

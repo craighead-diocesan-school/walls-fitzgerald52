@@ -34,4 +34,11 @@
     font-family: 'M PLUS 1 Code', monospace;
     background-color: #768c9e;
   }
+
+  @media screen and (max-width: 1000px) {
+    main {
+      width: 1000vw;
+      display: inline-block;
+    }
+  }
 </style>
