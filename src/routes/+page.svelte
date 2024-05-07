@@ -6,16 +6,16 @@
 <Header />
 
 <main>
-  <Card caption="$19.90 - Pink brick wall" src="/pink-brick.jpg" />
-  <Card caption="$4.90 - Yellow run down wall" src="/yellow-run-down.jpg" />
-  <Card caption="$9.90 - Unpainted brick wall" src="/unpainted-brick.jpg" />
-  <Card caption="$14.90 - White brick wall" src="/white-brick.jpg" />
-  <Card caption="$4.90 - Rough wall" src="/rough.jpg" />
-  <Card caption="$4.90 - Tan run down wall" src="/tan-run-down.jpg" />
-  <Card caption="$11.90 - Orange plaster wall" src="/orange-plaster.jpg" />
-  <Card caption="$4.90 - Grey run down wall" src="/grey-run-down.jpg" />
-  <Card caption="$24.90 - Flower wall" src="/flowers.jpg" />
-  <Card caption="$34.90 - Art deco wall" src="/art-deco.jpg" />
+  <Card caption="$19.90 - Māwhero / Pink brick wall" src="/pink-brick.jpg" />
+  <Card caption="$4.90 - Kōwhai / Yellow run down wall" src="/yellow-run-down.jpg" />
+  <Card caption="$9.90 - Pereki / Unpainted brick wall" src="/unpainted-brick.jpg" />
+  <Card caption="$14.90 - Waiti / White brick wall" src="/white-brick.jpg" />
+  <Card caption="$4.90 - Mātoretore / Rough wall" src="/rough.jpg" />
+  <Card caption="$4.90 - Parāone Pākarukaru / Tan run down wall" src="/tan-run-down.jpg" />
+  <Card caption="$11.90 - Karaka / Orange plaster wall" src="/orange-plaster.jpg" />
+  <Card caption="$4.90 - Kiwikiwi Pākarukaru / Grey run down wall" src="/grey-run-down.jpg" />
+  <Card caption="$24.90 - Putiputi / Flower wall" src="/flowers.jpg" />
+  <Card caption="$34.90 - Kōwaiwai / Art deco wall" src="/art-deco.jpg" />
 </main>
 
 <footer>
@@ -35,9 +35,9 @@
     background-color: #768c9e;
   }
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 600px) {
     main {
-      width: 1000vw;
+      width: 600px;
       display: inline-block;
     }
   }

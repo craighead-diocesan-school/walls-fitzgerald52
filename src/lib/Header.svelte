@@ -1,5 +1,5 @@
 <header>
-  <h1 class="title">Walls</h1>
+  <h1 class="title">Walls - Pātu</h1>
   <div class="stripe"></div>
   <h2>Website for Walls</h2>
 </header>
@@ -26,15 +26,15 @@
     font-family: 'M PLUS 1 Code', monospace;
     font-size: larger;
   }
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 600px) {
     h1 {
-      width: 1000px;
+      width: 600px;
     }
     .stripe {
-      width: 1000px;
+      width: 600px;
     }
     h2 {
-      width: 1000px;
+      width: 600px;
     }
   }
 </style>
