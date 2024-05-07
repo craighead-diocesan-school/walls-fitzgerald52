@@ -1,10 +1,11 @@
 <script>
   export let caption
   export let src
+  export let alt
 </script>
 
 <article>
-  <img class="photo" {src} alt="yellow run down wall" />
+  <img class="photo" {src} {alt} />
   <p class="caption">{caption}</p>
 </article>
 
